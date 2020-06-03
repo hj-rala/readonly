@@ -1,0 +1,2 @@
+input:-moz-read-only {background-color: #cbe5fb;}/* For Firefox */
+input:read-only {background-color: #cbe5fb;}
